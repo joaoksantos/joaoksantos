@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-**`Analista de Sistemas| Desenvolvedor| Analista de Dados`**
+**`Desenvolvedor Full Stack | Dados (SQL,Python)`**
 
 ## Linguagens & Tecnologias
 
