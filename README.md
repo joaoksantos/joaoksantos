@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-**`Desenvolvedor Full Stack | Dados (SQL,Python)`**
+**`Desenvolvedor Back-end | C# | .NET | SQL | Python | APIs REST | ETL | Bancos de Dados | Migração de Sistemas`**
 
 ## Linguagens & Tecnologias
 
